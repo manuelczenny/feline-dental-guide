@@ -60,7 +60,7 @@ For many cats, tooth brushing is the gold standard of daily oral hygiene, but so
 ### Oral Rinses and Water Additives
 **Description**: Liquid solutions added to drinking water or applied directly into the mouth to reduce bacterial load.
 - **Pros**: Extremely easy to administer (if the cat accepts the altered water taste); can help reduce halitosis and slow plaque formation.
-- **Cons**: Efficacy varies widely; some cats may drink less water if they dislike the taste, potentially leading to dehydration. Always ensure fresh, untreated water is available.
+- **Cons**: Efficacy varies widely; some cats may drink less water if they dislike the taste, potentially leading to dehydration. Always ensure fresh, untreated water is available. **It is crucial to monitor that the cat still drinks adequate water, as some animals may avoid the treated water altogether.**
 - **Recommendation**: Choose products with Veterinary Oral Health Council (VOHC) acceptance. Monitor water intake closely during the first week of use.
 
 ### Dental-Formulated Diets
